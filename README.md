@@ -1,6 +1,9 @@
 # SuperGradientTextView
 A simple library to add gradient color to textView in android native
 
+[![](https://jitpack.io/v/veeyaarVR/SuperGradientTextView.svg)](https://jitpack.io/#veeyaarVR/SuperGradientTextView)
+
+
 Why SuperGradientTextView?
 ---------------------
 
