@@ -57,3 +57,4 @@ If you haven't defined any color, default color will be used (**Color.BLUE, Colo
 ```
 
 If **true**, it sets the gradient from **left to right**. Else it sets from **right to left**
+If not defined, it sets the default value as **false**
