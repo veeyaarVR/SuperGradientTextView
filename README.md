@@ -12,7 +12,7 @@ Why SuperGradientTextView?
  - Supports both **kotlin** and **java**
  
  
- [![screen](https://raw.githubusercontent.com/veeyaarVR/SuperGradientTextView/master/app/screenshot.png)](https://github.com/veeyaarVR/SuperGradientTextView)
+ [![screen](https://raw.githubusercontent.com/veeyaarVR/SuperGradientTextView/master/app/scrnshot.png)](https://github.com/veeyaarVR/SuperGradientTextView)
  
  
  
